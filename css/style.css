@@ -317,8 +317,7 @@ h3{font-size:1rem;}
   padding: 10px 0;}
 
 .sec4_tit{
-  font-size:22px;
-  padding-top:40px;
+  font-size:18.5px;;
   text-align:center;
   float: left;
   width: 250px;
@@ -327,7 +326,7 @@ h3{font-size:1rem;}
   background-color: rgba(245, 156, 190, 0.425); }/*퍼센트와 픽셀을 같이 써도 된다.*/
 .sec4_tit .and{font-size:30px; color:#fff;}
 
-.sec4_tit .tit_inner{border:3px solid rgb(148, 145, 145); width:220px; height:370px;margin:-27px 0 0 12px;}   
+.sec4_tit .tit_inner{/*border:3px solid #fff; width:220px; height:370px;margin:-27px 0 0 12px;*/}   
 .sec4_slide{
   position: relative;
   width: calc(100% - 280px);

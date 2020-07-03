@@ -1,14 +1,13 @@
 @charset "utf-8";
 
 /*googleips 웹폰트 css 파일 불러오기*/
-@import url(https://fonts.googleapis.com/css?family=Galada|Nanum+Gothic|Nanum+Myeongjo);
-/*font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Nanum Gothic', sans-serif;
 font-family: 'Nanum Myeongjo', serif;
 font-family: 'Galada', cursive; */
 
 /* 저장된 글꼴 파일 선언*/
-/* @font-face { font-family : font_gothic;    
-                src : local(../font/NanumGothic.ttf) ; }  */
+@font-face { font-family : font_gothic;    
+                src : local(../font/NanumGothic.ttf) ; }
 /* 웹사이트의 글꼴 파일 선언*/
 /* @font-face { font-family : font_gothic;    
                 src : url(http://uhbee.com/nanum.eot) ; }   */
